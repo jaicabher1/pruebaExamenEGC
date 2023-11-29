@@ -1,6 +1,9 @@
 # Enunciado del ejercicio práctico de EGC para el turno de las 12:40.
 ***
 * Los alumnos que hayan decidido optar por el itinerario de **instensificación colaborativa**, deben realizar únicamente los apartados de cada ejercicio marcados en este itinerario.
+dñlsklfjskldjfkasjlkfsaj
+sadkfjaklsjfksajlkfdjas
+asdjfklasjdklfajsl
 * Los alumnos que hayan decidido optar por el itinerario de **balance técnico-organizativo**, deben realizar los apartados de los ejercicios marcados como relativos a los itinerarios intensificación colaborativa y balance técnico-organizativo.
 * Los alumnos que hayan decidido optar por el itinerario de **intensificación técnica**, deben realizar todos los ejercicios y todos los apartados de todos los itinerarios.
 
